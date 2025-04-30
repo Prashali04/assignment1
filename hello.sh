@@ -1,2 +1,2 @@
-Hello this is script file.
-modified by b1.
+echo"Hello this is script file."
+echo"modified by b1."
